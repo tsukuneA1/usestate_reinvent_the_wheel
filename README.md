@@ -1,1 +1,2 @@
 # usestate_reinvent_the_wheel
+雰囲気プログラマー脱却を目指す
